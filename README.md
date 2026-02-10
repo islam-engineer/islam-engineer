@@ -47,9 +47,7 @@ I build **high-performance, scalable mobile apps** with clean architecture and m
 ---
 
 ### 📫 How to Reach Me
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: https://linkedin.com/in/your-link  
-- 🧑‍💻 Fiverr: https://www.fiverr.com/your-username  
+- 📧 Email: mislamappdeveloper@gmail.com  
 
 ---
 
