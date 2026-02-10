@@ -1,43 +1,17 @@
 # Hi 👋, I'm Muhammad Islam
-
 🚀 Native Android Developer | Jetpack Compose | CMP & KMP Enthusiast  
-I build **high-performance, scalable mobile apps** with clean architecture and modern Android technologies.
+I build high-performance, scalable mobile apps with clean architecture and modern Android technologies.
+
+🌱 I’m currently improving my skills in **Kotlin Multiplatform (KMP)**, **Compose Multiplatform (CMP)**, and **scalable app architecture**.
 
 ---
 
-### 👨‍💻 About Me
-- 📱 Native Android Developer with strong focus on **Jetpack Compose**
-- 🔁 Cross-platform experience using **Compose Multiplatform (CMP)** & **Kotlin Multiplatform (KMP)**
-- 🧱 I care deeply about **clean architecture, maintainable code, and performance**
-- 🌱 Currently improving my skills in **KMP shared logic, CMP UI, and scalable app architecture**
-- 💼 Freelancer helping startups and businesses turn ideas into reliable mobile apps
+## 👨‍💻 All of my projects are available at:
+👉 [GitHub Repositories](https://github.com/islam-engineer)
 
 ---
 
-### 🛠️ Tech Stack
-**Mobile & Cross-Platform**
-- Kotlin, Java
-- Jetpack Compose
-- Compose Multiplatform (CMP)
-- Kotlin Multiplatform (KMP)
-- Android SDK
-
-**Architecture & Tools**
-- MVVM, Clean Architecture
-- Coroutines & Flow
-- Retrofit, Ktor
-- Room, DataStore
-- Firebase
-- Git & GitHub
-
----
-
-### 📂 Projects
-(Some projects are client-based and private, but public repos demonstrate my architecture and code quality.)
-
----
-
-### 💬 Ask Me About
+## 💬 Ask me about
 - Native Android Development
 - Jetpack Compose UI
 - Kotlin Multiplatform (KMP)
@@ -46,10 +20,40 @@ I build **high-performance, scalable mobile apps** with clean architecture and m
 
 ---
 
-### 📫 How to Reach Me
-- 📧 Email: mislamappdeveloper@gmail.com  
+## 🛠️ Languages & Tools
+
+**Languages:**  
+<img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />  
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" alt="Java" />  
+
+**Mobile & Cross-Platform:**  
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />  
+<img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Jetpack Compose" />  
+<img src="https://img.shields.io/badge/Compose_Multiplatform-4CAF50?style=for-the-badge&logo=kotlin&logoColor=white" alt="CMP" />  
+
+**Architecture & Tools:**  
+<img src="https://img.shields.io/badge/MVVM-6D4C41?style=for-the-badge" />  
+<img src="https://img.shields.io/badge/Clean_Architecture-FF6F00?style=for-the-badge" />  
+<img src="https://img.shields.io/badge/Coroutines-009688?style=for-the-badge" />  
+<img src="https://img.shields.io/badge/Flow-1976D2?style=for-the-badge" />  
+<img src="https://img.shields.io/badge/Retrofit-1565C0?style=for-the-badge&logo=retrofit" />  
+<img src="https://img.shields.io/badge/Ktor-007ACC?style=for-the-badge" />  
+<img src="https://img.shields.io/badge/Room-FF5722?style=for-the-badge" />  
+<img src="https://img.shields.io/badge/DataStore-9C27B0?style=for-the-badge" />  
+<img src="https://img.shields.io/badge/Firebase-FFA000?style=for-the-badge&logo=firebase" />
+
+**Version Control:**  
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />  
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 
 ---
 
-### ⚡ Fun Fact
-I refactor code for fun and get excited about clean architecture 😄
+## 📫 How to reach me
+- Email: [mislamappdeveloper@gmail.com](mailto:mislamappdeveloper@gmail.com)  
+- LinkedIn: [in/ranaislam057](https://linkedin.com/in/ranaislam057)  
+- GitHub: [islam-engineer](https://github.com/islam-engineer)
+
+---
+
+## ⚡ Fun fact
+I refactor code for fun and get excited about **clean architecture 😄**
