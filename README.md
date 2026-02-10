@@ -45,7 +45,7 @@ I build high-performance, scalable mobile apps with clean architecture and moder
 
 ## 📫 How to reach me
 - Email: [mislamappdeveloper@gmail.com](mailto:mislamappdeveloper@gmail.com)  
-- LinkedIn: [in/islam-yaqoob](https://linkedin.com/in/islam-yaqoob)  
+- LinkedIn: [in/muhammad-islam-yaqoob](https://linkedin.com/in/muhammad-islam-yaqoob)  
 - GitHub: [islam-engineer](https://github.com/islam-engineer)
 
 ---
