@@ -22,30 +22,23 @@ I build high-performance, scalable mobile apps with clean architecture and moder
 
 ## 🛠️ Languages & Tools
 
-**Languages:**  
-![Kotlin](https://skillicons.dev/icons?i=kotlin)  
-![Java](https://skillicons.dev/icons?i=java)  
-![Python](https://skillicons.dev/icons?i=python)  
-
-**Mobile & Cross-Platform:**  
-![Android](https://skillicons.dev/icons?i=android)  
-![Jetpack Compose](https://skillicons.dev/icons?i=jetpack)  
-![KMP](https://skillicons.dev/icons?i=kotlin)  
-
-**Architecture & Tools:**  
-![MVVM](https://skillicons.dev/icons?i=mvvm)  
-![Clean Architecture](https://skillicons.dev/icons?i=arch)  
-![Coroutines](https://skillicons.dev/icons?i=kotlin)  
-![Flow](https://skillicons.dev/icons?i=kotlin)  
-![Retrofit](https://skillicons.dev/icons?i=retrofit)  
-![Ktor](https://skillicons.dev/icons?i=ktor)  
-![Room](https://skillicons.dev/icons?i=room)  
-![DataStore](https://skillicons.dev/icons?i=kotlin)  
-![Firebase](https://skillicons.dev/icons?i=firebase)  
-
-**Version Control & Collaboration:**  
-![Git](https://skillicons.dev/icons?i=git)  
-![GitHub](https://skillicons.dev/icons?i=github)  
+<p align="left">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40"/>
+  
+  <!-- Mobile & Cross-Platform -->
+  <img src="https://skillicons.dev/icons?i=android" alt="Android" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=jetpack" alt="Jetpack Compose" width="40" height="40"/>
+  
+  <!-- Architecture & Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" alt="MySQL" width="40" height="40"/>
+</p>
 
 ---
 
