@@ -36,15 +36,16 @@ I build high-performance, scalable mobile apps with clean architecture and moder
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" alt="MySQL" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+
 </p>
 
 ---
 
 ## 📫 How to reach me
 - Email: [mislamappdeveloper@gmail.com](mailto:mislamappdeveloper@gmail.com)  
-- LinkedIn: [in/ranaislam057](https://linkedin.com/in/ranaislam057)  
+- LinkedIn: [in/ranaislam057](https://linkedin.com/in/islam-yaqoob)  
 - GitHub: [islam-engineer](https://github.com/islam-engineer)
 
 ---
