@@ -12,39 +12,40 @@ I build high-performance, scalable mobile apps with clean architecture and moder
 ---
 
 ## 💬 Ask me about
-- Native Android Development
-- Jetpack Compose UI
-- Kotlin Multiplatform (KMP)
-- Compose Multiplatform (CMP)
-- App performance & scalability
+- Native Android Development  
+- Jetpack Compose UI  
+- Kotlin Multiplatform (KMP)  
+- Compose Multiplatform (CMP)  
+- App performance & scalability  
 
 ---
 
 ## 🛠️ Languages & Tools
 
 **Languages:**  
-<img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />  
-<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" alt="Java" />  
+![Kotlin](https://skillicons.dev/icons?i=kotlin)  
+![Java](https://skillicons.dev/icons?i=java)  
+![Python](https://skillicons.dev/icons?i=python)  
 
 **Mobile & Cross-Platform:**  
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />  
-<img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Jetpack Compose" />  
-<img src="https://img.shields.io/badge/Compose_Multiplatform-4CAF50?style=for-the-badge&logo=kotlin&logoColor=white" alt="CMP" />  
+![Android](https://skillicons.dev/icons?i=android)  
+![Jetpack Compose](https://skillicons.dev/icons?i=jetpack)  
+![KMP](https://skillicons.dev/icons?i=kotlin)  
 
 **Architecture & Tools:**  
-<img src="https://img.shields.io/badge/MVVM-6D4C41?style=for-the-badge" />  
-<img src="https://img.shields.io/badge/Clean_Architecture-FF6F00?style=for-the-badge" />  
-<img src="https://img.shields.io/badge/Coroutines-009688?style=for-the-badge" />  
-<img src="https://img.shields.io/badge/Flow-1976D2?style=for-the-badge" />  
-<img src="https://img.shields.io/badge/Retrofit-1565C0?style=for-the-badge&logo=retrofit" />  
-<img src="https://img.shields.io/badge/Ktor-007ACC?style=for-the-badge" />  
-<img src="https://img.shields.io/badge/Room-FF5722?style=for-the-badge" />  
-<img src="https://img.shields.io/badge/DataStore-9C27B0?style=for-the-badge" />  
-<img src="https://img.shields.io/badge/Firebase-FFA000?style=for-the-badge&logo=firebase" />
+![MVVM](https://skillicons.dev/icons?i=mvvm)  
+![Clean Architecture](https://skillicons.dev/icons?i=arch)  
+![Coroutines](https://skillicons.dev/icons?i=kotlin)  
+![Flow](https://skillicons.dev/icons?i=kotlin)  
+![Retrofit](https://skillicons.dev/icons?i=retrofit)  
+![Ktor](https://skillicons.dev/icons?i=ktor)  
+![Room](https://skillicons.dev/icons?i=room)  
+![DataStore](https://skillicons.dev/icons?i=kotlin)  
+![Firebase](https://skillicons.dev/icons?i=firebase)  
 
-**Version Control:**  
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />  
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+**Version Control & Collaboration:**  
+![Git](https://skillicons.dev/icons?i=git)  
+![GitHub](https://skillicons.dev/icons?i=github)  
 
 ---
 
