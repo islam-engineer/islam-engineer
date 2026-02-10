@@ -29,8 +29,8 @@ I build high-performance, scalable mobile apps with clean architecture and moder
   <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40"/>
   
   <!-- Mobile & Cross-Platform -->
-  <img src="https://skillicons.dev/icons?i=android" alt="Android" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=jetpack" alt="Jetpack Compose" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Jetpack Compose" width="40" height="40"/>
   
   <!-- Architecture & Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
