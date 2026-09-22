@@ -51,9 +51,5 @@ I build high-performance, scalable mobile apps with clean architecture and moder
 ---
 
 ## ⚡ Fun fact
-I refactor code for fun and get excited about **clean architecture 😄**  
----
-
-## 🏆 Current Milestones
-- Currently completing the **GitHub Profile Achievements challenge**!
+I refactor code for fun and get excited about **clean architecture 😄**
 
